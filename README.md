@@ -9,7 +9,14 @@ Developed as the **Milestone Project for Days 31–35 (Projects 4–6)** in Paul
 ## 📱 Preview
 
 <p align="center">
-  <img src="screenshots/screenshot.png" alt="Edutainment App Screenshot" width="300" />
+  <img src="screenshots/screenshot_settings.png" alt="Settings Screen" width="260" />
+  &nbsp;&nbsp;
+  <img src="screenshots/screenshot_gameplay.png" alt="Active Gameplay" width="260" />
+  &nbsp;&nbsp;
+  <img src="screenshots/screenshot_feedback.png" alt="Feedback Alert" width="260" />
+</p>
+<p align="center">
+  <em>1. Practice Configuration &nbsp;&bull;&nbsp; 2. Live Question & Input &nbsp;&bull;&nbsp; 3. Real-time Feedback</em>
 </p>
 
 ---
