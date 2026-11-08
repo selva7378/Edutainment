@@ -6,6 +6,14 @@ Developed as the **Milestone Project for Days 31–35 (Projects 4–6)** in Paul
 
 ---
 
+## 📱 Preview
+
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="Edutainment App Screenshot" width="300" />
+</p>
+
+---
+
 ## 📸 Overview
 
 **Edutainment** combines education with entertainment to make memorizing times tables engaging and enjoyable for kids:
